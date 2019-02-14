@@ -40,7 +40,8 @@ app.layout = html.Div(children=[
             # configure the layout of the visualization --
             # set the title to be "Usage of the BGT North of NE 70th per week day"
             'layout': {
-                'title': 'Usage of the BGT North of NE 70th per week day'
+                'title': 'Ayyy yo'
+                #'title': 'Usage of the BGT North of NE 70th per week day'
             }
         }
     )
